@@ -1,2 +1,2 @@
-# vs-robache
-A custom Friday Night Funkin' mod for my friend Robache ! :D
+# Friday Night Funkin' VS Robache 
+A custom Friday Night Funkin' mod for my friend Robache
